@@ -2,7 +2,7 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
-  - [Setting up a SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setting up a SIEM](https://github.com/bb21259/ConfigSIEMLab)
   - [Vunerability Scanning](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Project YouTube Videos</h2>
