@@ -3,7 +3,7 @@
 <h2>🔒 Cybersecurity Projects:</h2>
 
   - [Setting up a SIEM](https://github.com/bb21259/ConfigSIEMLab)
-  - [Vunerability Scanning](https://github.com/bb21259/VulnerabilityScanning)
+  - [Vunerability Scanning with Nessus](https://github.com/bb21259/VulnerabilityScanning)
 
 <h2>📺 Project YouTube Videos</h2>
 
