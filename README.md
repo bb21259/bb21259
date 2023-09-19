@@ -1,5 +1,5 @@
 <h1>Hi, I'm Brandon!</h1>
-
+This is my page for all my projects relevant to Cybersecurity. 
 <h2>🔒 Cybersecurity Projects:</h2>
 
   - [Setting up a SIEM](https://github.com/bb21259/ConfigSIEMLab)
