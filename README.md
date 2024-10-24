@@ -9,7 +9,6 @@ This is my page for all my projects relevant to Cybersecurity.
 
 <h2> Connect with me:</h2>
 <h2>[linkedin]: www.linkedin.com/in/brandon-baca-58b1a1284<h2/>
-<h2>[youtube]: https://www.youtube.com/channel/UCvE8L-eB-urHkO6MBXA9YAg<h2/>
 
 
   
