@@ -1,5 +1,5 @@
 <h1>Hi, I'm Brandon!</h1>
-This is my page for all my projects relevant to Cybersecurity. 
+This is my page for all my projects! 
 <h2>🔒 Cybersecurity Projects with Walkthroughs:</h2>
 
   - [AI assisted Vulnerability Triage Ticketing Pipeline](https://github.com/bb21259/AI-Assisted-Vulnerability-Triage-Ticketing-Pipeline)
